@@ -1,0 +1,52 @@
+---
+consent:
+  version: 1
+  author: Smart4Health
+  id: broad-consent-v16-de
+  lang: de
+fonts:
+  default: Helvetica
+options:
+  width: 8
+  height: 8
+  inputs:
+    - page: 6
+      yes:
+        x: 229
+        y: 212
+      no:
+        x: 289
+        y: 212
+    - page: 7
+      yes:
+        x: 229
+        y: 565
+      no:
+        x: 289
+        y: 565
+    - page: 7
+      yes:
+        x: 229
+        y: 472
+      no:
+        x: 289
+        y: 472
+signing:
+  name:
+    fontSize: 26
+    page: 8
+    x: 70
+    y: 526
+    maxWidth: 270
+  date:
+    fontSize: 26
+    page: 8
+    x: 70
+    y: 567
+    format: dd.MM.yyyy
+  signature:
+    page: 8
+    x: 345
+    y: 526
+    maxWidth: 200
+    maxHeight: 80
