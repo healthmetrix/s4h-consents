@@ -80,7 +80,7 @@ information:
     description: ""
 
   - title: Why you cannot select the detailed research purpose?
-    image: /svg/checklist.svg
+    image: /svgs/checklist.svg
     summary: |
       Not all medical research purposes can be described at this stage, as we do not know what future medical
       research questions may arise; these can refer to whole areas of disease (e.g. cancer, cardiovascular diseases,
