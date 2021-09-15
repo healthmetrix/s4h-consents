@@ -4,12 +4,12 @@ consent:
   author: Smart4Health
 defaults:
   navigation:
-    back: Back
-    next: Continue
-    learnMore: Learn More
-    exit: Exit
-    answer: Answer
-    share: Share
+    back: BACK
+    next: CONTINUE
+    learnMore: LEARN MORE
+    exit: EXIT
+    answer: ANSWER
+    share: SHARE
 welcome:
   title: Smart4Health consent for research data provision
   image: /svgs/s4h.svg
