@@ -164,7 +164,7 @@ information:
       except in cases permitted by you or regulated by law.
 
   - title: What happens, when you provide your health data?
-    image: /svgs/process.svg # in the future: /pngs/when-provide-health-data.png
+    image: /svgs/process.svg
     summary: |
       You sign the consent and select which data from your collection on the Smart4Health platform you want to provide.
       Data identifying you is replaced by an internal code. This internal code is stored within your encrypted personal
@@ -203,7 +203,7 @@ information:
       or email according to your preferences.
 
   - title: How is your health data used for science?
-    image: /pngs/how-is-used.png
+    image: /svgs/how-is-used.svg
     summary: |
       To “use” your data means that researchers will access your data, combine it with data provided by other users,
       and process it all together to find answers to research questions. Use also entails that the results of these
@@ -240,7 +240,7 @@ information:
     description: "" # TBD
 
   - title: Under which circumstances does your health data leave the Smart4Health research platform?
-    image: /svgs/exit.svg # in the future: /pngs/leave-platform.png
+    image: /svgs/exit.svg
     summary: |
       You can choose whether or not your data may be send from the Smart4Health research platform to other research
       groups outside of Smart4Health. The data is anonymised before it leaves the research platform. Once the data
