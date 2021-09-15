@@ -20,8 +20,6 @@ signing:
   conditions:
     - text: I understand this is a legal representation of my signature.
       required: true
-    - text: I understand the study information provided in the consent document and agree to participate in the study.
-      required: true
   submit: Sign
   cancel:
     button: Cancel
