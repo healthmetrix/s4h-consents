@@ -7,13 +7,14 @@
  */
 .back-button {
   background-color: #ffffff;
+  color: #06344f;
 }
 
 /* The following styles will change how the "Continue" buttons throughout the consent flow appear. These styles can be overridden specifically with the more specific classes below. You might consider changing the background color,
  * border radius, or font color
  */
 .next-button {
-
+  box-shadow: 1px 1px 1px 0px #bdbdbd;
 }
 
 /* The following styles will change how the "continue" button on the welcome page appears. You might consider changing the background color,
