@@ -20,9 +20,9 @@ signing:
   conditions:
     - text: I understand this is a legal representation of my signature.
       required: true
-  submit: Sign
+  submit: SIGN
   cancel:
-    button: Cancel
+    button: CANCEL
     confirmHeader: Are you sure you want to exit the consent process?
     confirmContent: If you exit, you will need to repeat the consent process before participating in the Smart4Health study.
     confirmCancel: Yes
