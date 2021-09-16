@@ -6,10 +6,10 @@ defaults:
   navigation:
     back: BACK
     next: CONTINUE
-    learnMore: LEARN MORE
-    exit: EXIT
-    answer: ANSWER
-    share: SHARE
+    learnMore: Learn More
+    exit: Exit
+    answer: Answer
+    share: Share
 welcome:
   title: Smart4Health consent for research data provision
   image: /svgs/s4h.svg
