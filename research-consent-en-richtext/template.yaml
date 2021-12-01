@@ -30,10 +30,10 @@ welcome:
     External links to e.g.<br/>
     <a href="https://smart4health.eu/research">https://smart4health.eu/research</a>
     <br/><br/>Headline of different sizes in the headline font (on h1/h2 should match page headline)<br/><br/>
-    <h1 class="header">H1</h1>
-    <h2 class="header">H2</h2>
-    <h3 class="header">H3</h3>
-    <h4 class="header">H4</h4>
+    <h1>H1</h1>
+    <h2>H2</h2>
+    <h3>H3</h3>
+    <h4>H4</h4>
 
 information:
   - title: User information
