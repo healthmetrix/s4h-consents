@@ -1,0 +1,440 @@
+---
+consent:
+  version: 1
+  author: Smart4Health
+defaults:
+  navigation:
+    back: BACK
+    next: CONTINUE
+    learnMore: Learn More
+    exit: Exit
+    answer: Answer
+    share: Share
+welcome:
+  title: Smart4Health consent for research data provision
+  image: /svgs/s4h.svg
+  description: |
+
+    Text formatting like, <b>bold</b>, <u>underline</u> and <i>italic</i><br/><br/>
+    Unordered lists, looks like
+    <ul>
+      <li>topic A</li>
+      <li>topic B</li>
+      <li>topic C</li>
+    </ul>
+    Text in a box<br/><br/>
+    <div class="box">
+    Text in a box with (always full width with variable size) as DIV/P + CLASS or dedicated tag (BOX)
+    </div>
+    <br/><br/>
+    External links to e.g.<br/>
+    <a href="https://smart4health.eu/research">https://smart4health.eu/research</a>
+    <br/><br/>Headline of different sizes in the headline font (on h1/h2 should match page headline)<br/><br/>
+    <h1 class="header">H1</h1>
+    <h2 class="header">H2</h2>
+    <h3 class="header">H3</h3>
+    <h4 class="header">H4</h4>
+
+information:
+  - title: User information
+    image: /svgs/information.svg
+    summary: |
+      Your health data can be valuable for medical research. Medical research is needed to improve the early
+      detection, treatment, and prevention of diseases. Insights that are gained from using your health data
+      may substantially contribute to these goals. To use your data means that researchers will access the data
+      you share with the Smart4Health platform, combine it with data provided by other users, and analyze it to
+      find answers to research questions. Use also entails that the results of these analyses are shared and
+      discussed with other researchers and the public. Your health research data is not transmitted to third
+      parties unless you give your consent to it, and it is never made public in a way that could identify you.
+
+      This consent flow covers the provision of your health data for medical research purposes. This includes
+      all research with the aim to improve health and wellbeing.
+
+      If you do not want to provide your health data for medical research, do not sign this consent form.
+
+      If you agree to provide your health data for medical research, your health data that you upload to the
+      Smart4Health platform will be shared to a separate database called the Smart4Health research platform,
+      controlled by the research institute Hasso-Plattner-Institute (HPI) and operated by the not-for-profit
+      company data4life (D4L). HPI and D4L are partners in the EU-funded Smart4Health project, which you have
+      already chosen to participate in. HPI is the scientific technical coordinator of the project and D4L is
+      the data controller of the Smart4Health platform and its service.
+
+      To provide your data for research is voluntary. If you do not wish to provide data for research, or
+      wish to withdraw your consent later, it will not affect the medical care you receive or your ability to
+      use the Smart4Health platform and its other services.
+
+      Please read below for description about the Smart4Health research platform. If you do not fully agree with
+      the nature and long-term duration of data use that we describe below, or if we have not answered your
+      queries to your satisfaction, you should not give your consent.
+
+    description: ""
+
+  - title: What are our goals and the goal of medical research?
+    image: /svgs/target.svg
+    summary: |
+      We want to establish a link between your health data and researchers, while keeping your identity safe.
+
+      Medical research aims exclusively at improving the prevention, detection, and treatment of diseases. The
+      goal of this research is neither to make a diagnosis for you nor to influence any medical care that you
+      may currently be receiving – the goal of medical research is to affect medicine and healthcare on a
+      broader scale.
+    description: ""
+
+  - title: How can you support this?
+    image: /svgs/handshake-deal.svg
+    summary: |
+      You can choose to make your health data available for medical research.
+
+      The health data you provide for research will be used in connection with health data provided by other
+      Smart4Health users to answer various research questions related to medicine and healthcare.
+
+      Your health data will not be used for research unrelated to the improvement of medicine and healthcare.
+    description: ""
+
+  - title: Why you cannot select the detailed research purpose?
+    image: /svgs/checklist.svg
+    summary: |
+      Not all medical research purposes can be described at this stage, as we do not know what future medical
+      research questions may arise; these can refer to whole areas of disease (e.g. cancer, cardiovascular diseases,
+      brain diseases) as well as to specific diseases and changes in the genetic substance that are still partly
+      unknown today. This means that your health data may be used for research questions that we cannot foresee today.
+    description: ""
+
+  - title: For how long is your consent valid and your data stored?
+    image: /svgs/circular-clock-time.svg
+    summary: |
+      Your consent to the provision of health data is valid during the Smart4Health project, which will end on
+      February 28, 2023.
+
+      If you did not withdraw it, your consent to the processing and use of the collected data remains effective
+      beyond this period for at least 30 years. You may proceed to provide your health data after the end of the
+      project by signing a re-consent form.
+    description: |
+      If you do not withdraw it beforehand, your consent to the provision of health data is valid during the
+      Smart4Health project, which will end on February 28, 2023. We will remind you by November 30, 2022 at the
+      latest that the project is going to be completed. After the project has ended, if we do not hear from you by
+      June 30, 2023, we will assume that you have not withdrawn your consent.
+
+      Your health data will be stored for 30 years from the time of your consent if you have not withdrawn your
+      consent beforehand. In special cases, data may also be important to science beyond this 30-year point. In
+      these cases, HPI as the data controller during and after the project would consult with the relevant data
+      protection authorities and an independent ethics committee to determine whether further use of your data
+      is possible.
+
+  - title: What is Health data?
+    image: /svgs/folder-data-storage.svg
+    summary: |
+      Health data is all information related to your personal health. This includes, but is not limited to,
+      patient data from your electronic health records and citizen-generated fitness data.
+    description: |
+      Citizen-generated fitness and health data include data from sensors, wearables and/or fitness apps (e.g.,
+      the heart rate data tracked by a smartwatch).
+
+      Patient data is all information about you that is recorded and/or used during a medical examination and
+      treatment, and is stored in any of your electronic health records that come from previously visited health
+      professionals or hospitals.
+
+  - title: What kind of  data will you provide?
+    image: /svgs/data-storage.svg
+    summary: |
+      Certain data elements must be included in order for health data to be useful in research. If you consent to
+      providing data for medical research purposes, you will provide patient summaries, and medication plans to the
+      research platform (as far as available).
+    description: |
+      The data elements you must include in your provision to research, if available, are
+
+      1. The patient summary, which is a standardized set of basic medical data that includes the most important
+      clinical facts required to ensure safe and secure healthcare. Though this data is mainly intended to aid
+      health professionals in providing unscheduled care, it can also be used to provide planned medical care
+      (e.g. in the case of citizen movements or cross-organizational care paths) . This includes alerts (allergies,
+      intolerances), medical history (vaccinations, problems, surgeries), medication summary (current medicines),
+      medical problems (diagnoses, implants), physical findings (vital signs), and diagnostic tests (blood group)
+
+      2. The medication plan, which includes also the medication history (doses and dates of prescribed medicines)
+
+  - title: What kind of data will you provide?
+    image: /svgs/data-storage.svg
+    summary: |
+      You can also provide additional optional health data, depending on your personal preferences.
+
+      This data may include, but are not limited to, laboratory results, and self-generated fitness data.
+    description: ""
+
+  - title: What is coding?
+    image: /svgs/mask.svg
+    summary: |
+      Information that can easily be used to identify you personally is replaced by a combination of characters.
+      (e.g. John Doe → 18Jh47&6G)
+    description: |
+      When collecting health data, information such as your name and date of birth is also collected. Such
+      information can easily be used to identify you personally. This information is replaced by a combination of
+      characters. In this way, it is more difficult to trace back to your person. You will only be traced back if your
+      health data is to be supplemented with additional information about you or if we want to contact you again
+      (see point 2 below).
+
+      Data that identify you will never be disclosed to anybody, in particular not to insurance companies or employers,
+      except in cases permitted by you or regulated by law.
+
+  - title: What happens, when you provide your health data?
+    image: /svgs/process.svg
+    summary: |
+      You sign the consent and select which data from your collection on the Smart4Health platform you want to provide.
+      Data identifying you is replaced by an internal code. This internal code is stored within your encrypted personal
+      Smart4Health account and can only be accessed by you. After the data is coded, it is transferred to the
+      Smart4Health research platform and stored there.
+    description: |
+      You need to be signed in to your Smart4Health account (1). Right after you sign the consent (2), you will be
+      able to select which data from your collection on the Smart4Health platform you want to provide (3). Some data
+      elements must be provided, as explained before.
+
+      From the selected data, all data directly identifying you (name, date of birth, address, etc.) will be replaced
+      (4) by a combination of characters (“coding”, as explained before). Once this internal code
+      replaces your identifying information (5), your associated health data can then no longer be connected directly
+      to your person.
+
+      This internal code is stored within your encrypted personal Smart4Health account and can only be accessed by you.
+      The connection of this internal code to the data directly identifying you can only be triggered by you. With this,
+      the health data provided for medical research cannot be traced back to you, or only with disproportionate
+      technical effort, if you do not actively allow it.
+
+      After the data is coded, it is transferred to the Smart4Health research platform and stored there (6). At the end,
+      you will receive a notification of the success of the data provision.
+
+  - title: How can you provide additional data to research?
+    image: /svgs/plus.svg
+    summary: |
+      Whenever you have new personal health data stored in your Smart4Health platform you can also provide this data
+      for research using the Smart4Health research application by repeating steps 3 to 6 explained in the last
+      screen. Alternatively, you can decide to allow the automatic provision of future data using the Smart4Health
+      research application.
+    description: |
+      Automatic provision of future data applies to the required health data and, if you want, optional health data
+      according to your preferences. Whenever such health data is uploaded to your Smart4Health account, it will be
+      automatically processed to be provided to research. This means the application will perform the provision
+      automatically in the background and you will receive a notification of the successful provision as a push-message
+      or email according to your preferences.
+
+  - title: How is your health data used for science?
+    image: /svgs/how-is-used.svg
+    summary: |
+      To “use” your data means that researchers will access your data, combine it with data provided by other users,
+      and process it all together to find answers to research questions. Use also entails that the results of these
+      analysis are shared and discussed with other researchers. Your health research data is not transmitted to third
+      parties without your consent.
+
+      Researchers from universities, research institutions and researching companies can request access to your health
+      data for medical research purposes. Each individual research project that requests to use your health data is
+      reviewed in advance by a Data Access Committee and requires the committee’s approval before the project may
+      begin. The researchers may not pass on the access to the data or the data itself and they must not use it for
+      other purposes.
+
+      Data Access Committee
+
+      The Data Access Committee (DAC) is a body constituted of named individuals from the Smart4Health consortium
+      whom are responsible for data release to external requestors (researchers) based on your consent and National
+      Research Ethics terms.
+
+      Your health data will be used exclusively for scientific purposes; it will not be sold. However, Smart4Health
+      may collect a fee from the respective researchers.
+
+      In the Smart4Health research application and at https://smart4health.eu/studies you can see at any time which
+      studies are carried out with your data or the data of other users. In addition to this, you can register for a
+      mailing list, which will inform you about all new studies by e-mail or through the Smart4Health research
+      application at least one week before data is being used.
+
+      The data used for scientific publications of results is exclusively anonymous, i.e. in a form that does not
+      allow any conclusions about or links to your identity.
+
+      Anonymization
+
+      During anonymization, your data will be changed in such a way that it can no longer be connected to your identity,
+      or only with a disproportionate technical effort. Any unique link to your identity will be completely removed.
+    description: "" # TBD
+
+  - title: Under which circumstances does your health data leave the Smart4Health research platform?
+    image: /svgs/exit.svg
+    summary: |
+      You can choose whether or not your data may be send from the Smart4Health research platform to other research
+      groups outside of Smart4Health. The data is anonymised before it leaves the research platform. Once the data
+      has left the research platform, this cannot be undone if you withdraw your consent after this happened.
+    description: |
+      The receiving research groups and their databases may be located in countries of the European Union (EU) or in
+      countries where the EU has determined adequate data protection measures are in place. Your data will not be send
+      to other countries that do not have an acceptable level of data protection. The responsibility and supervision
+      of the data lies with the receiving institution, which ensures equal data security and compliance measures as is
+      established by Smart4Health.
+
+  - title: What are the risks associated with using your health data?
+    image: /svgs/warning.svg
+    summary: |
+      Whenever data is provided to a researcher, there is a risk of loss of private information. This risk always
+      exists, but there are procedures in place to minimize the risk. The data stored in our research platform is
+      separated from your name and other personal identifiers.
+    description: |
+      If your private information was misused, it is possible you would experience other harms, such as stress,
+      anxiety, stigmatization, or embarrassment from revealing information about your family relationships, ethnic
+      background, or health conditions. Examples for misuse of private information are, e.g. to take actions on your
+      behalf or to blackmail you with disclosed information.
+
+      The unique code linking your data to your identity is stored separately and securely within your encrypted ;
+      personal Smart4Health account and can only be accessed by you.
+
+  - title: What are the benefits for you personally?
+    image: /svgs/charity-tree.svg
+    summary: |
+      There is no expected direct benefit or advantage to your health from providing your data for medical research.
+      Your consent and provision of data for research will not have consequences for any medical treatment you may be
+      receiving. Furthermore, if a commercial benefit is derived from the research, e.g. through the development of
+      new drugs or diagnostic procedures, you will have no rights in the results and will not receive a share in
+      the profits.
+    description: ""
+
+  - title: What benefits are there for our society?
+    image: /svgs/charity-help.svg
+    summary: |
+      Medical-scientific research projects aim at improving our understanding how diseases develop over time and how
+      we can improve disease prevention, treatment, and care. For more information about the research activities based
+      on the data in the Smart4Health research platform, please visit our website.
+
+    description: |
+      You can see your contribution to research at any time using the Smart4Health research application. This means
+      for example that you can check in how many studies your data was used so far. To find a complete list of
+      functions and features of the application, please visit our website.
+
+  - title: Will we be re-contacting you?
+    image: /svgs/recontacting.svg
+    summary: |
+      In order to obtain additional information from you, it may be useful to contact you again at a
+      later point in time.
+
+      Even when re-contacting you, researchers never know your identity. The re-contacting request by researchers
+      needs the approval of the Data Access Committee.
+
+      You may decline being re-contacted in the declaration of consent (“right not to know”).
+    description: |
+      The re-contacting can be done
+
+      - To inform you about new research projects/studies and scientific results, which are related to your provided data,
+
+      - To obtain additional information related to scientific questions we are investigating. Additional information
+        would only be obtained from you with your consent.
+
+      You can retrieve any requests using the Smart4Health Research Application. There is no other way to contact you.
+
+  - title: What does your right of withdrawal include?
+    image: /svgs/stop-violence.svg
+    summary: |
+      To provide data for research is voluntary. You can withdraw your consent to provide health data for research at
+      any time, without consequences to you. You can do this in whole by revoking the consent, or in part by changing
+      individual statements of your consent.
+    description: |
+      The withdrawal only refers to the future use of your health data. Data cannot be removed from analyses that have
+      already been carried out, or if anonymized data has been transmitted to third parties. It cannot be removed
+      because there is no way of tracing the anonymous data back to you.
+
+      If you choose to withdraw your consent to the research platform, your health data that has been stored based on
+      this consent will be anonymized, if law permits this, by erasing the identification code that has been assigned
+      to you. Your anonymized data is not used for any future research, but remains accessible for completed and
+      ongoing research projects to ensure reproducibility of research results. However, as we explained in the Risk
+      section (see point 1.6), anonymization of your health data can never completely rule out the possibility of
+      re-identification by drawing on other data sources.
+
+      If anonymisation is not possible or not permitted by law, your provided health data will be deleted.
+
+      You can also change individual parts of the declaration of consent without withdrawing it in whole. For example,
+      you can change your consent preferences if you wish to continue to make the health data available to research but
+      no longer have interest in being contacted for study participation.
+
+      For withdrawal, please use the withdraw function in the Smart4Health research application or contact:
+
+      Hasso-Plattner-Institut für Digital Engineering gGmbH,
+
+      Prof.-Dr.-Helmert-Str. 2-3, 14482 Potsdam, Germany
+
+      (Responsible: Prof. Dr. Erwin Böttinger).
+
+      E-Mail:     info@smart4health.eu
+
+      Website:     https://smart4health.eu
+
+  - title: Further information and rights
+    image: /svgs/information-info.svg
+    summary: |
+      The legal basis for processing your data for research is your consent (Articles 9(2)a and 6(1)a of the European
+      General Data Protection Regulation).
+
+      Responsible for the processing of your health data:
+
+      data4life gGmbH
+
+      Rudolf-Breitscheid-Straße 185–189, 14482 Potsdam, Germany
+
+      (managing director: Christian-Cornelius Weiß).
+
+      You can reach the data protection officer of the responsible body at
+
+      Data protection officer of the Hasso-Plattner-Institut für Digital Engineering gGmbH,
+
+      Prof.-Dr.-Helmert-Str. 2-3,14482 Potsdam, Germany
+
+      E-Mail:     datenschutz@hpi.de.
+
+      You may submit a complaint with a supervisory authority if applicable. The supervisory authority for Smart4Health
+      is [name of the competent data protection supervisory authority].
+
+      You have the right to obtain information about the data concerning you on request, which includes the right
+      to obtain a free copy. You have the right to request its correction, deletion, or restriction of processing,
+      if necessary. And you also have the right to receive your personal data provided in a standardised electronic
+      format or to have it transmitted to someone else by your request (right to data portability). When you claim
+      these rights, we will most likely inform you that we do not have any data concerning you as only you can link
+      the code to your person.
+    description: ""
+
+options:
+  - title: General Consent
+    summary: |
+      I consent to the processing and use of my health data for medical research exclusively as described in point 1
+      of the user information and with separate storage of the name and other directly identifying data (coding).
+
+      I also consent to the scientific analysis and use of my coded health data by third parties, e.g. by universities,
+      research institutes or researching companies on the premises of the Smart4Health Research Platform.
+
+      I confirm that I have no commercial interest in providing data to research and that I have no rights in the
+      results of the research.
+    description: ""
+    required: true
+
+  - title: Possibility to transmission of my anonymized health data to third parties
+    summary: |
+      I optionally consent to the transmission of my anonymized health data to third parties abroad (e.g. universities,
+      research institutes or researching companies), if the European data protection law applies or the European
+      Commission has confirmed an adequate level of data protection. This may include a transmission to external
+      research data infrastructures that conduct industrial research. For description, see point 1.5 of the user
+      information.
+    description: ""
+    required: false
+
+  - title: Possibility of automatic provision of future data
+    summary: |
+      I agree that health data from selected categories is automatically processed to be provided to research when it
+      is newly uploaded to my Smart4Health account. This always applies to patient summaries, and medication plans.
+      Apart from that, I can manage in my user preferences which optional health data is uploaded automatically. For
+      description, see point 1.3 of the user information.
+    description: ""
+    required: false
+
+  - title: Possibility of re-contacting
+    summary: |
+      I agree that I may be re-contacted by Smart4Health (see point 2 of the user information) in order to
+
+      A. provide, where appropriate, additional information relevant to scientific questions.
+    description: ""
+    required: false
+
+  - title: Possibility of re-contacting
+    summary: |
+      I agree that I may be re-contacted by Smart4Health (see point 2 of the user information) in order to
+
+      B. be informed about new research projects/studies and scientific results, which are related to my provided data.
+    description: ""
+    required: false
