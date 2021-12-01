@@ -78,3 +78,22 @@ input:focus + .slider {
 
 .option-text-accept {
 }
+
+.header {
+}
+
+.consent-document-section > a:link, .consent-content > a:link {
+    color: #34A1AD;
+}
+
+.consent-document-section > a:visited, .consent-content > a:visited {
+    color: #34A1AD;
+}
+
+.box {
+    /*border: 1px solid black;*/
+    padding: 10px;
+    /*-webkit-box-shadow: 0 4px 8px 2px rgba(0,0,0,0.2);*/
+    /*box-shadow: 0 4px 8px 2px rgba(0,0,0,0.2);*/
+    background-color: #f3f3f3;
+}
