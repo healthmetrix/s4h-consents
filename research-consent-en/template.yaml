@@ -21,7 +21,9 @@ welcome:
     from your mobile phone.
     <br><br>
     In the following, “we” refers to the researchers and developers of the EU-funded Smart4Health project under
-    the scientific-technical coordination of Prof. Dr. Erwin Böttinger from the Hasso-Plattner-Institute (HPI).information:
+    the scientific-technical coordination of Prof. Dr. Erwin Böttinger from the Hasso-Plattner-Institute (HPI).
+
+information:
   - title: User information
     image: /svgs/information.svg
     summary: |
@@ -172,7 +174,7 @@ welcome:
       You need to be signed in to your Smart4Health account (1). Right after you sign the consent (2), you will be
       able to select which data from your collection on the Smart4Health platform you want to provide (3). Some data
       elements must be provided, as explained before.
-      <br><br>
+
       From the selected data, all data directly identifying you (name, date of birth, address, etc.) will be replaced
       (4) by a combination of characters (“coding”, as explained before). Once this internal code
       replaces your identifying information (5), your associated health data can then no longer be connected directly
@@ -364,7 +366,7 @@ welcome:
       Prof.-Dr.-Helmert-Str. 2-3,14482 Potsdam, Germany
       <br><br>
       E-Mail:     datenschutz@hpi.de.
-      <br><br> 
+      <br><br>
       You may submit a complaint with a supervisory authority if applicable. The supervisory authority for Smart4Health
       is [name of the competent data protection supervisory authority].
       <br><br>
