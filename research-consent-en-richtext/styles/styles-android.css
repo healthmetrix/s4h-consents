@@ -1,7 +1,27 @@
+/**
+  * NOTE: This is just a sample CSS file to represent styles that are customizable by external parties. Do not load this CSS file into an HTML file.
+*/
+
+/* The following styles will change how the "Back" buttons throughout the consent flow appear. These styles can be overridden specifically with the more specific classes below. You might consider changing the background color,
+ * border radius, or font color
+ */
+.back-button {
+  background-color: #ffffff;
+  color: #06344f;
+}
+
+/* The following styles will change how the "Continue" buttons throughout the consent flow appear. These styles can be overridden specifically with the more specific classes below. You might consider changing the background color,
+ * border radius, or font color
+ */
+.next-button {
+  box-shadow: 1px 1px 1px 0px #bdbdbd;
+}
+
 /* The following styles will change how the "continue" button on the welcome page appears. You might consider changing the background color,
  * border radius, or font color
  */
 .welcome-next-button {
+
 }
 
 /* The following styles will change how the buttons to continue
@@ -9,9 +29,11 @@
  * border radius, or font color
  */
 .summary-back-button {
+
 }
 
 .summary-next-button {
+
 }
 
 /* The following styles will change how the buttons to continue
@@ -20,9 +42,11 @@
  * border radius, or font color
  */
 .description-back-button {
+
 }
 
 .description-next-button {
+
 }
 
 /* The following styles will change how the buttons to continue
@@ -30,9 +54,11 @@
  * border radius, or font color
  */
 .option-back-button {
+
 }
 
 .option-next-button {
+
 }
 
 /* The following styles will change how the buttons to continue
@@ -40,9 +66,11 @@
  * border radius, or font color
  */
 .review-back-button {
+
 }
 
 .review-next-button {
+
 }
 
 /** The following style will change how the toggles appear
@@ -57,14 +85,14 @@
 /* Change the background color here to change the color
  * of the toggle when selected
  */
-input:checked + .slider {
+input:checked+.slider {
   /* background-color: #2789C2; */
 }
 
 /* Change the background color here to change the color
  * of the toggle when selected
  */
-input:focus + .slider {
+input:focus+.slider {
   /* box-shadow: 0 0 1px #2789C2; */
 }
 
@@ -74,30 +102,9 @@ input:focus + .slider {
   * consider changing the font, font-size, or adding padding
  */
 .option-text-reject {
+
 }
 
 .option-text-accept {
-}
 
-/**
-* Start: Adjustments for using rich text within the yaml
-*/
-h1, h2, h3, h4, h5, h6 {
-    font-family: "RobotoSlab";
 }
-
-.consent-document-section > a:link, .consent-content > a:link {
-    color: #34A1AD;
-}
-
-.consent-document-section > a:visited, .consent-content > a:visited {
-    color: #34A1AD;
-}
-
-.box {
-    padding: 10px;
-    background-color: #f3f3f3;
-}
-/**
-* End: Adjustments for using rich text within the yaml
-*/

@@ -14,14 +14,26 @@ welcome:
   title: Smart4Health consent for research data provision
   image: /svgs/s4h.svg
   description: |
-    Dear Smart4Health user, thank you for downloading and installing the Smart4Health research application.
+
+    Text formatting like, <b>bold</b>, <u>underline</u> and <i>italic</i><br><br>
+    Unordered lists, looks like
+    <ul>
+      <li>topic A</li>
+      <li>topic B</li>
+      <li>topic C</li>
+    </ul>
+    Text in a box<br><br>
+    <div class="box">
+    Text in a box with (always full width with variable size) as DIV/P + CLASS or dedicated tag (BOX)
+    </div>
     <br><br>
-    To use this application you need a Smart4Health account for the Smart4Health platform, where you collect
-    your health data from different sources, such as medical records from your doctor’s office or step counts
-    from your mobile phone.
-    <br><br>
-    In the following, “we” refers to the researchers and developers of the EU-funded Smart4Health project under
-    the scientific-technical coordination of Prof. Dr. Erwin Böttinger from the Hasso-Plattner-Institute (HPI).
+    External links to e.g.<br>
+    <a href="https://smart4health.eu/research">https://smart4health.eu/research</a>
+    <br><br> Headline of different sizes in the headline font (on h1/h2 should match page headline)<br><br>
+    <h1>H1</h1>
+    <h2>H2</h2>
+    <h3>H3</h3>
+    <h4>H4</h4>
 
 information:
   - title: User information
@@ -174,7 +186,7 @@ information:
       You need to be signed in to your Smart4Health account (1). Right after you sign the consent (2), you will be
       able to select which data from your collection on the Smart4Health platform you want to provide (3). Some data
       elements must be provided, as explained before.
-
+      <br><br>
       From the selected data, all data directly identifying you (name, date of birth, address, etc.) will be replaced
       (4) by a combination of characters (“coding”, as explained before). Once this internal code
       replaces your identifying information (5), your associated health data can then no longer be connected directly

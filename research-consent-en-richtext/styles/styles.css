@@ -83,7 +83,7 @@ input:focus + .slider {
 * Start: Adjustments for using rich text within the yaml
 */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "RobotoSlab";
+  font-family: "RobotoSlab";
 }
 
 .consent-document-section > a:link, .consent-content > a:link {
