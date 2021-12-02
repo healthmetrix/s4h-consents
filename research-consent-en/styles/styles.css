@@ -78,3 +78,26 @@ input:focus + .slider {
 
 .option-text-accept {
 }
+
+/**
+* Start: Adjustments for using rich text within the yaml
+*/
+h1, h2, h3, h4, h5, h6 {
+    font-family: "RobotoSlab";
+}
+
+.consent-document-section > a:link, .consent-content > a:link {
+    color: #34A1AD;
+}
+
+.consent-document-section > a:visited, .consent-content > a:visited {
+    color: #34A1AD;
+}
+
+.box {
+    padding: 10px;
+    background-color: #f3f3f3;
+}
+/**
+* End: Adjustments for using rich text within the yaml
+*/

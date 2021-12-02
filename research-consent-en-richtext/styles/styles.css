@@ -95,10 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .box {
-    /*border: 1px solid black;*/
     padding: 10px;
-    /*-webkit-box-shadow: 0 4px 8px 2px rgba(0,0,0,0.2);*/
-    /*box-shadow: 0 4px 8px 2px rgba(0,0,0,0.2);*/
     background-color: #f3f3f3;
 }
 /**
