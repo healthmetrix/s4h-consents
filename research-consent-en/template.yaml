@@ -31,7 +31,7 @@ information:
       detection, treatment, and prevention of diseases. Insights that are gained from using your health data
       may substantially contribute to these goals. To use your data means that researchers will access the data
       you share with the Smart4Health platform, combine it with data provided by other users, and analyze it to
-      find answers to research questions. Use also entails that the results of these analyses are shared and
+      find answers to <popup data-id="research">research</popup> questions. Use also entails that the results of these analyses are shared and
       discussed with other researchers and the public. Your health research data is not transmitted to third
       parties unless you give your consent to it, and it is never made public in a way that could identify you.
       <br><br>
@@ -41,7 +41,7 @@ information:
       If you do not want to provide your health data for medical research, do not sign this consent form.
       <br><br>
       If you agree to provide your health data for medical research, your health data that you upload to the
-      Smart4Health platform will be shared to a separate database called the Smart4Health research platform,
+      Smart4Health <popup data-id="platform">platform</popup> will be shared to a separate database called the Smart4Health research platform,
       controlled by the research institute Hasso-Plattner-Institute (HPI) and operated by the not-for-profit
       company data4life (D4L). HPI and D4L are partners in the EU-funded Smart4Health project, which you have
       already chosen to participate in. HPI is the scientific technical coordinator of the project and D4L is
@@ -426,3 +426,11 @@ options:
       B. be informed about new research projects/studies and scientific results, which are related to my provided data.
     description: ""
     required: false
+glossary:
+  closeText: CLOSE
+  items:
+    - id: research
+      text: "Research is creative and systematic work undertaken to increase the stock of knowledge. It involves the collection, organization and analysis of information to increase understanding of a topic or issue. A research project may be an expansion on past work in the field. To test the validity of instruments, procedures, or experiments, research may replicate elements of prior projects or the project as a whole.
+            The primary purposes of basic research (as opposed to applied research) are documentation, discovery, interpretation, and the research and development (R&D) of methods and systems for the advancement of human knowledge. Approaches to research depend on epistemologies, which vary considerably both within and between humanities and sciences. There are several forms of research: scientific, humanities, artistic, economic, social, business, marketing, practitioner research, life, technological, etc. The scientific study of research practices is known as meta-research."
+    - id: platform
+      text: "<h1>platform</h1><p>This is an example text<p>"
