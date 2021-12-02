@@ -17,19 +17,19 @@ welcome:
   image: /svgs/corona.svg
   description: |
     Sehr geehrte Patientin, sehr geehrter Patient!
-
+    <br><br>
     Sie werden gegenwärtig an [unserem/unserer Name der behandelnden Einrichtung] zur Diagnosestellung oder Therapie ärztlich behandelt.
     Im Rahmen Ihrer Behandlung werden von Ihnen Patientendaten erhoben. Diese Patientendaten können für die medizinische Forschung von erheblichem Wert sein.
-
+    <br><br>
     Medizinische Forschung ist notwendig, um die Früherkennung, Behandlung und Vorbeugung von
     Krankheiten laufend zu verbessern; dazu können Erkenntnisse, die wir aus Ihren Patientendaten gewinnen
     möglicherweise sehr viel beitragen. Wir möchten Sie daher bitten, uns Ihre Patientendaten für
     medizinische Forschungszwecke zur Verfügung zu stellen. Ihre Patientendaten sollen dabei in einer
     Datenbank gesammelt werden, die durch [Träger der Datenbank] betrieben wird.
-
+    <br><br>
     Ihre Einwilligung ist freiwillig. Wenn Sie sich nicht beteiligen möchten oder Ihre Einwilligung später
     widerrufen möchten, erwachsen Ihnen daraus keine Nachteile.
-
+    <br><br>
     Wenn Sie mit der nachfolgend beschriebenen Art und langfristigen Dauer der Nutzung nicht in
     vollem Umfang einverstanden sind oder Ihre Rückfragen nicht alle zufriedenstellend beantwortet
     wurden, sollten Sie Ihre Einwilligung nicht erteilen.
@@ -46,7 +46,7 @@ information:
       verbessern; Ihre Patientendaten werden nicht für die Entwicklung biologischer Waffen oder
       diskriminierende Forschungsziele verwendet. Ebenso ist es nicht Ziel dieser Forschung, bei Ihnen
       eine Diagnose zu erstellen oder Ihre konkrete Behandlung zu beeinflussen.
-
+      <br><br>
       Ihre Patientendaten sollen im Sinne eines breiten Nutzens für die Allgemeinheit für viele
       verschiedene medizinische Forschungszwecke verwendet werden.​Zum jetzigen Zeitpunkt können
       dabei noch nicht alle zukünftigen medizinischen Forschungsinhalte beschrieben werden; diese können
@@ -59,14 +59,14 @@ information:
       Wissenschaft sein. In diesen Fällen würden wir in Abstimmung mit den zuständigen
       Datenschutzaufsichtsbehörden und einer unabhängigen Ethikkommission klären, ob auch eine
       weitergehende Nutzung Ihrer Daten möglich ist.
-
+      <br><br>
       Patientendaten sind alle Informationen zu Ihrer Person, die anlässlich Ihrer Untersuchung und Behandlung
       genutzt werden. Beispiele für Patientendaten sind: Daten aus Arztbriefen, Ihre Krankengeschichte oder
       Befunde und Daten aus medizinischen Untersuchungen wie Blutdruckmessungen oder Röntgenbildern;
       ebenso zählen die Ergebnisse von Laboruntersuchungen dazu, einschließlich Untersuchungen Ihrer
       Erbsubstanz (z.B. auf angeborene genetisch bedingte Erkrankungen oder erworbene genetische
       Veränderungen, unter anderem auch von Tumoren).
-
+  <br><br>
   - title: 1.2 Wie werden Ihre Patientendaten wissenschaftlich genutzt?
     image: /svgs/search.svg
     summary: |
@@ -80,16 +80,16 @@ information:
       für wissenschaftliche Zwecke genutzt; sie werden nicht verkauft. [Die/Das Name der behandelnden Einrichtung] kann aber
       für die Bereitstellung qualitätskontrollierter Daten von den jeweiligen Nutzern eine angemessene Aufwandsentschädigung
       erheben.
-
+      <br><br>
       Die Zulässigkeit jedes einzelnen Forschungsvorhabens mit Ihren Patientendaten wird vorab von einer unabhängigen Ethikkommission
       geprüft und erfordert deren zustimmende Bewertung.
-
+      <br><br>
       Wissenschaftliche Veröffentlichungen von Ergebnissen erfolgen ausschließlich anonymisiert, also in einer
       Form, die keine Rückschlüsse auf Ihre Person zulässt.
-
+      <br><br>
       Bei der Anonymisierung werden Ihre Daten so verändert, dass sie Ihrer Person nicht mehr oder nur mit
       einem unverhältnismäßig großen technischen Aufwand zugeordnet werden können.
-
+      <br><br>
       Ihre Patientendaten können auch mit Ihren Daten aus Datenbanken anderer Forschungspartner (z.B.
       anderer Krankenhäuser, Institute oder Register) zusammengeführt werden. Voraussetzung dafür ist, dass
       Sie dieser Nutzung auch bei den entsprechenden Forschungspartnern zugestimmt haben.
@@ -112,23 +112,23 @@ information:
       zurückverfolgt werden. Vor einer Weitergabe Ihrer Daten an Forscher außerhalb Ihrer behandelnden
       Einrichtung erfolgt zudem eine weitere Ersetzung des internen Kennzeichens durch eine neue
       Zeichenkombination.
-
+      <br><br>
       Bei der Erfassung von Patientendaten werden auch Informationen wie Ihr Name und Ihr Geburtsdatum
       erfasst. Mit solchen Informationen kann leicht auf Sie persönlich geschlossen werden. Diese Informationen
       werden durch eine Kombination von Zeichen ersetzt. Auf diese Weise wird eine einfache Rückverfolgung
       zu Ihrer Person ausgeschlossen. Eine Rückverfolgung zu Ihrer Person erfolgt nur, wenn Ihre
       Patientendaten durch zusätzliche Informationen über Sie ergänzt werden sollen oder um erneut mit Ihnen
       in Kontakt zu treten (siehe unten Punkt 4).
-
+      <br><br>
       Daten, die Ihre Person identifizieren, werden außer in von Ihnen erlaubten oder gesetzlich
       geregelten Fällen niemals an Forscher oder sonstige Dritte weitergegeben, insbesondere nicht an
       Versicherungsunternehmen oder Arbeitgeber.
-
+      <br><br>
       Ihre Einwilligung umfasst auch die Möglichkeit, Ihre Patientendaten zu den genannten Zwecken anEmpfänger in Staaten
       der Europäischen Union oder des Europäischen Wirtschaftsraums oder in weitere Länder, bei denen die Europäische Kommission
       ein angemessenes Datenschutzniveau festgestellt hat, zu übermitteln. Eine Übermittlung in andere Länder, in denen kein angemessenes Datenschutzniveau
       festgestellt wurde, ist ausgeschlossen.
-
+      <br><br>
       Unter der Adresse ​ www.medizininformatik-initiative.de/datennutzung ​ können Sie jederzeit sehen, welche
       Studien mit Ihren oder den Patientendaten anderer Patienten durchgeführt werden. Zudem finden Sie
       unter dieser Adresse eine Möglichkeit, sich für einen E-Mail- Verteiler zu registrieren, der Sie per E-Mail
@@ -145,12 +145,12 @@ information:
       Netzwerken, das Restrisiko einer Rückverfolgbarkeit zu Ihrer Person. Das ist insbesondere dann der Fall,
       wenn Sie selbst genetische oder andere Gesundheitsdaten, z.B. zur Ahnenforschung im Internet,
       veröffentlichen.
-
+      <br><br>
       Grundsätzlich erhöht ist das Risiko einer Rückverfolgbarkeit bei genetischen Patientendaten. Die Erb-
       information eines Menschen ist in der Regel eindeutig auf eine Person bezogen, also auch auf Sie. Zudem
       kann aus Ihren genetischen Daten in manchen Fällen auch auf Eigenschaften Ihrer Verwandten
       geschlossen werden.
-
+      <br><br>
       Sollten Ihre Daten trotz umfangreicher technischer und organisatorischer Schutzmaßnahmen in unbefugte
       Hände fallen und dann trotz fehlender Namensangaben ein Rückbezug zu Ihrer Person hergestellt
       werden, so kann eine diskriminierende oder anderweitig für Sie und ggf. auch nahe Verwandte schädliche
@@ -169,13 +169,13 @@ information:
       wird Ihre Einwilligung somit keine Auswirkung haben. Sollte aus der Forschung ein kommerzieller Nutzen,
       z.B. durch Entwicklung neuer Arzneimittel oder Diagnoseverfahren, erzielt werden, werden Sie daran nicht
       beteiligt.
-
+      <br><br>
       Es ist jedoch im Einzelfall möglich, dass ein Auswertungsergebnis für Ihre Gesundheit von so erheblicher
       Bedeutung ist, dass ein Arzt oder Forscher eine Kontaktaufnahme als dringend notwendig erachtet. Das
       ist insbesondere der Fall, wenn sich daraus ein dringender Verdacht auf eine schwerwiegende, bisher
       möglicherweise nicht erkannte Krankheit ergibt, die behandelt oder deren Ausbruch verhindert werden
       könnte.
-
+      <br><br>
       Darüber hinaus können sich weitere Analyseergebnisse ergeben, die möglicherweise für Ihre Gesundheit
       relevant sind (Zusatzbefunde) und über die wir Sie informieren möchten. Sie können entscheiden, ob wir
       Sie in diesem Zusammenhang kontaktieren dürfen. Beachten Sie dabei, dass Sie
@@ -184,7 +184,7 @@ information:
       dadurch Nachteile erleiden könnten. Da für die medizinische Forschung eventuell auch Informationen aus
       Ihrer Erbsubstanz genutzt werden sollen, kann sich das auch auf Ihre genetische Veranlagung fürbestimmte Erkrankungen beziehen. Weitere Informationen zu genetischen Daten finden Sie unter
       www.vernetzen-forschen-heilen.de/genetische-daten.
-
+      <br><br>
       Informationen aus Ihrer Erbsubstanz können auch Bedeutung für Ihre Familienangehörigen und die
       Familienplanung haben. Sie können Ihre Entscheidung für oder gegen diese Möglichkeit zur Rückmeldung
       jederzeit durch Mitteilung an uns ändern.
@@ -258,7 +258,7 @@ information:
       nochmals Daten gewonnen werden dürfen, ohne dass Sie erneut eine Einwilligungserklärung
       unterzeichnen müssten. Sollten Sie nach Ablauf von fünf Jahren wieder [in der/im Name der
       behandelnden Einrichtung] vorstellig werden, werden wir Sie erneut um Ihre Einwilligung bitten.
-
+      <br><br>
       Ihre Einwilligung in die Verarbeitung und Nutzung der bisher erhobenen Daten bleibt über diesen Zeitraum
       hinaus wirksam (siehe Punkt 1.1).
   - title: 4. Was beinhaltet Ihr Widerrufsrecht?
@@ -268,26 +268,26 @@ information:
       Patientendaten jederzeit ohne Angabe von Gründen und ohne nachteilige Folgen für Sie vollständig oder in Teilen widerrufen.
     description: |
       Ihre Einwilligung ist freiwillig!
-
+      <br><br>
       Sie können Ihre Einwilligung zur weiteren Erhebung sowie zur wissenschaftlichen Nutzung Ihrer Patientendaten jederzeit
       ohne Angabe von Gründen und ohne nachteilige Folgen für Sie vollständig oder in Teilen widerrufen.
-
+      <br><br>
       Ein Widerruf bezieht sich dabei immer nur auf die künftige Verwendung Ihrer Patientendaten. Daten aus
       bereits durchgeführten Analysen können nachträglich nicht mehr entfernt werden.
-
+      <br><br>
       Im Falle eines Widerrufs werden Ihre auf Grundlage dieser Einwilligung gespeicherten Patientendaten
       gelöscht oder anonymisiert, sofern dies gesetzlich zulässig ist. Wenn eine Löschung nicht oder nicht mit
       zumutbarem technischem Aufwand möglich ist, werden Ihre Patientendaten anonymisiert, indem der Ihnen
       zugeordnete Identifizierungscode gelöscht wird. Die Anonymisierung Ihrer Patientendaten kann allerdings
       eine spätere Zuordnung von – insbesondere genetischen – Informationen zu Ihrer Person über andere
       Quellen niemals völlig ausschließen.
-
+      <br><br>
       Sie können auch einzelne Teile der Einwilligungserklärung widerrufen, beispielsweise wenn Sie zwar die
       Patientendaten weiter der Forschung zur Verfügung stellen möchten, aber kein Interesse an einer
       weiteren Kontaktierung zwecks Nacherhebungen oder Studienteilnahmen haben.
-
+      <br><br>
       Für einen Widerruf wenden Sie sich bitte an:
-
+      <br><br>
       [Adresse/Tel./Fax/Mail: Widerruf entgegennehmende Stelle/Einrichtung]
   - title: 5. Weitere Informationen und Rechte
     image: /svgs/balance-law.svg
@@ -297,21 +297,21 @@ information:
     description: |
       Rechtsgrundlage für die Datenverarbeitung ist Ihre Einwilligung (Artikel 9 Absatz 2 a und Artikel 6 Absatz 1
       a der Europäischen Datenschutz-Grundverordnung).
-
+      <br><br>
       Für die Verarbeitung ihrer Patientendaten verantwortlich ist [Name(n) der verantwortlichen Einrichtung und
       Kontaktdaten einfügen].
-
+      <br><br>
       Der zuständige Datenschutzbeauftragte der verantwortlichen Einrichtung ist erreichbar unter [Kontakt-
       daten angeben].
-
+      <br><br>
       Sie haben die Möglichkeit, sich mit einer Beschwerde an jede Datenschutzaufsichtsbehörde zu wenden.
       Die zuständige Aufsichtsbehörde für Ihre behandelnde Einrichtung ist [Name der zuständigen
       Datenschutzaufsichtsbehörde].
-
+      <br><br>
       Zudem haben Sie das Recht, Auskunft über die Sie betreffenden Patientendaten zu erhalten (auf Wunsch
       einschließlich einer unentgeltlichen Überlassung einer Kopie) sowie ggf. deren Berichtigung oder
       Löschung oder Einschränkung der Verarbeitung zu verlangen.
-
+      <br><br>
       Sie haben weiter das Recht, von Ihnen bereitgestellte Daten in einem standardisierten elektronischen
       Format zu erhalten oder an eine von Ihnen genannte Stelle übermittelt zu bekommen (Recht auf
       Datenübertragbarkeit).
@@ -324,18 +324,18 @@ options:
     description: |
       Erhebung, Verarbeitung und wissenschaftliche Nutzung meiner Patientendaten,
       wie in der Patienteninformation beschrieben; dies umfasst
-
+      <br><br>
       1.1
-
+      <br><br>
       die Verarbeitung und Nutzung meiner Patientendaten für die medizinische Forschung ausschließlich wie in
       der Patienteninformation beschrieben und mit getrennter Verwaltung des Namens und anderer direkt
       identifizierender Daten (Codierung). Unter der Adresse ​ www.medizininformatik- initiative.de/datennutzung
       kann ich mich für einen E-Mail-Verteiler registrieren, der per E-Mail über alle neuen Studien, die mit den
       Patientendaten durchgeführt werden, vor deren Durchführung informiert (siehe Punkte 1.1, 1.2 und 1.3 der
       Patienteninformation).
-
+      <br><br>
       1.2
-
+      <br><br>
       die wissenschaftliche Analyse und Nutzung meiner codierten Patientendaten durch Dritte wie z.B. durch
       andere Universitäten/Institute/forschende Unternehmen; dies kann auch eine Weitergabe für
       Forschungsprojekte im Ausland umfassen, wenn in diesen europäisches Datenschutzrecht gilt oder die
@@ -343,9 +343,9 @@ options:
       kommerziellen Nutzen aus der Forschung werde ich nicht beteiligt. Vor einer Weitergabe an Forscher
       außerhalb meiner behandelnden Einrichtung erfolgt zudem eine weitere Ersetzung des internen
       Kennzeichens durch eine neue Zeichenkombination.
-
+      <br><br>
       1.3
-
+      <br><br>
       die Möglichkeit einer Zusammenführung meiner Patientendaten mit Daten in Datenbanken anderer
       Forschungspartner. ​ Voraussetzung ist, dass ich dieser Nutzung bei den entsprechenden
       Forschungspartnern auch zugestimmt habe.
