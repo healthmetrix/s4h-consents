@@ -403,6 +403,17 @@ options:
       results of the research.
     description: ""
     required: true
+    accept: <b>Yes</b>, I consent
+    reject: <b>No</b>, I do not consent
+    popover: To continue, please choose option YES or NO
+    requiredPopup:
+      title: QUIT CONSENT?
+      text: |
+        If you do not agree to the general consent, you will not be able to participate in the data provision program for research.
+        <br>
+        Are you sure?
+      confirm: YES, QUIT
+      cancel: NO
 
   - title: Possibility to transmission of my anonymized health data to third parties
     summary: |
@@ -413,6 +424,9 @@ options:
       information.
     description: ""
     required: false
+    accept: <b>Yes</b>, I consent
+    reject: <b>No</b>, I do not consent
+    popover: To continue, please choose option YES or NO
 
   - title: Possibility of automatic provision of future data
     summary: |
@@ -422,6 +436,9 @@ options:
       description, see point 1.3 of the user information.
     description: ""
     required: false
+    accept: <b>Yes</b>, I consent
+    reject: <b>No</b>, I do not consent
+    popover: To continue, please choose option YES or NO
 
   - title: Possibility of re-contacting
     summary: |
@@ -430,6 +447,9 @@ options:
       A. provide, where appropriate, additional information relevant to scientific questions.
     description: ""
     required: false
+    accept: <b>Yes</b>, I consent
+    reject: <b>No</b>, I do not consent
+    popover: To continue, please choose option YES or NO
 
   - title: Possibility of re-contacting
     summary: |
@@ -438,3 +458,6 @@ options:
       B. be informed about new research projects/studies and scientific results, which are related to my provided data.
     description: ""
     required: false
+    accept: <b>Yes</b>, I consent
+    reject: <b>No</b>, I do not consent
+    popover: To continue, please choose option YES or NO
