@@ -2,11 +2,12 @@
 consent:
   version: 1
   author: Smart4Health
+  descriptionModal: true
 defaults:
   navigation:
     back: BACK
     next: CONTINUE
-    learnMore: Learn More
+    learnMore: MORE DETAILS
     exit: Exit
     answer: Answer
     share: Share
