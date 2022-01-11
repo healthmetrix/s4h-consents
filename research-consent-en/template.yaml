@@ -11,6 +11,7 @@ defaults:
     exit: Exit
     answer: Answer
     share: Share
+    close: CLOSE
 welcome:
   title: Smart4Health consent for research data provision
   image: /svgs/s4h.svg
@@ -452,7 +453,6 @@ options:
     popover: To continue, please choose option YES or NO
 
 glossary:
-  closeText: CLOSE
   items:
     - id: research
       text: "Research is creative and systematic work undertaken to increase the stock of knowledge. It involves the collection, organization and analysis of information to increase understanding of a topic or issue. A research project may be an expansion on past work in the field. To test the validity of instruments, procedures, or experiments, research may replicate elements of prior projects or the project as a whole.
