@@ -2,7 +2,7 @@
 consent:
   version: 1
   author: Smart4Health
-  descriptionModal: true
+  learnMoreDisplay: MODAL
 defaults:
   navigation:
     back: BACK
