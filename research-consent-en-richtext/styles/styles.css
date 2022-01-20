@@ -86,11 +86,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "RobotoSlab";
 }
 
-.consent-document-section > a:link, .consent-content > a:link {
+.consent-document-section a:link, .consent-content a:link, .modal-learn-more-body a:link {
     color: #34A1AD;
 }
-
-.consent-document-section > a:visited, .consent-content > a:visited {
+.consent-document-section a:visited, .consent-content a:visited, .modal-learn-more-body a:visited {
     color: #34A1AD;
 }
 
