@@ -7,6 +7,4 @@ Deployment of this repository as static assets takes place via netlify pointing 
 The only active consent here is `research-consent-en` which will be accessible to dynamic-consen with the
 consentId `smart4health-research-consent-en`.
 
-`research-consent-en-richtext` is a playground for applying some direct html richtext stuff.
-
-`broad-consent-v16-de` is a copy of a broad consent not being used.
+`test-around-consent-en` is a playground, e.g. for applying some direct html richtext stuff.
