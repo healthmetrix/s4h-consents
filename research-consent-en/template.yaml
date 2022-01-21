@@ -344,32 +344,6 @@ options:
     reject: <b>No</b>, I do not consent
     popover: To continue, please choose option YES or NO
 
-  - title: Validity of my consent
-    summary: |
-      My consent to provide my health data from the <i>Smart4Health account</i> to the Smart4Health research platform is 
-      valid during the <i>Smart4Health</i> project, which will presumably end on February 28, 2023. After the project ends, 
-      I can give my consent again. I can also choose to not give my consent again or withdraw my consent anytime. 
-      The use of the data collected prior to the project end remains permissible in anonymized form for a duration 
-      of 10 years for completed and ongoing research projects to ensure that research results can be reproduced.
-    description: ""
-    required: false
-    accept: <b>Yes</b>, I consent
-    reject: <b>No</b>, I do not consent
-    popover: To continue, please choose option YES or NO
-
-  - title: Right of withdrawal
-    summary: |
-      <i><b>I voluntarily consent to provide my data for research</b></i>. I may withdraw my consent in whole or in part in the 
-      <i>MyScience App</i> or by contacting HPI at any time, without giving reasons and without any consequences for me.
-      <br><br>
-      Upon withdrawal, the data stored on the basis of this consent will not be used for future research. 
-      It will be deleted (anonymized). Data from already performed analyses cannot be removed.
-    description: ""
-    required: false
-    accept: <b>Yes</b>, I consent
-    reject: <b>No</b>, I do not consent
-    popover: To continue, please choose option YES or NO
-
 glossary:
   items:
     - id: research
