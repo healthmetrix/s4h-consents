@@ -269,13 +269,13 @@ information:
     image: /svgs/information.svg
     summary: |
       <i><b>For any questions, concerns, or enquiries you can contact us directly:</b></i>
-      <br>
+      <br><br>
       Hasso-Plattner-Institut für Digital Engineering gGmbH,
       <br>
       Prof.-Dr.-Helmert-Str. 2-3, 14482 Potsdam, Germany
       <br>
       (Responsible Project Manager: Prof. Dr. Erwin Böttinger) 
-      <br>
+      <br><br>
       E-Mail: 	<a href="mailto:helpdesk@smart4health.eu">helpdesk@smart4health.eu</a>
       <br>
       Website: 	<a target="blank" href="https://smart4health.eu">https://smart4health.eu</a>
@@ -304,7 +304,7 @@ options:
       title: QUIT CONSENT?
       text: |
         If you do not agree to the general consent, you will not be able to participate in the data provision program for research.
-        <br>
+        <br><br>
         Are you sure?
       confirm: YES, QUIT
       cancel: NO
@@ -384,13 +384,11 @@ glossary:
         <b>Health data</b> is all information related to your personal health collected in your Smart4Health account. 
         This includes, but is not limited to, <b>patient data</b> from your electronic health/patient/medical records, 
         if available, as well as your <b>self-generated fitness and health data</b>.
-        <br><br>
         <blockquote>
           <b>Patient data</b> is all information about you that is recorded during a medical examination and treatment. 
           It is stored in any of your electronic health/patient/medical records that come from previously visited health 
         professionals or hospitals. 
         </blockquote>
-        <br><br>
         <b>Self-generated fitness and health data</b> include data from sensors, wearables and/or fitness apps (e.g., 
         the heart rate data tracked by a smartwatch).
     - id: core
@@ -452,7 +450,7 @@ glossary:
       text: |
         During anonymization, the code that has been assigned to your identity will be completely removed. 
         Further measures for your protection can be applied at any time according to regular privacy impact assessments.
-        <br>
+        <br><br>
         Please note: Anonymized data does not count any longer as personal data, because it is not traceable to you anymore. 
         In case you withdraw your consent to data provision, the data transferred to ELIXIR-LU cannot be deleted anymore.
     - id: ELIXIR
@@ -463,13 +461,13 @@ glossary:
     - id: contact
       text: |
         <i><b>For any questions, concerns, or enquiries you can contact us directly:</b></i>
-        <br>
+        <br><br>
         Hasso-Plattner-Institut für Digital Engineering gGmbH,
         <br>
         Prof.-Dr.-Helmert-Str. 2-3, 14482 Potsdam, Germany
         <br>
         (Responsible Project Manager: Prof. Dr. Erwin Böttinger) 
-        <br>
+        <br><br>
         E-Mail: 	<a href="mailto:helpdesk@smart4health.eu">helpdesk@smart4health.eu</a>
         <br>
         Website: 	<a target="blank" href="https://smart4health.eu">https://smart4health.eu</a>
