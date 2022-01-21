@@ -288,17 +288,16 @@ information:
 options:
   - title: General Consent
     summary: |
-      <b>I consent to the processing and use of my health data for health research</b> exclusively as described in 
-      the information sheet, with separate storage of my name and other directly identifying data (pseudonymization).
-      <br><br>
-      <b>I consent to the scientific analysis and use of my coded health data by researchers associated with</b> 
-      universities, research institutes or commercial companies on the premises of the Smart4Health research platform.
-      <br><br>
-      I understand that I will receive no compensation for providing data for research and that I have no rights in 
-      the result of the research.
-      <br><br>
-      I agree to the <a target="blank" href="https://myscience-app.smart4health.eu/terms-of-use-en.html">Terms of Use</a> 
-      and <a target="blank" href="https://myscience-app.smart4health.eu/privacy-statement-en.html">Privacy Policy</a>.
+      <ul>
+      <li><b>I consent to the processing and use of my health data for health research</b> exclusively as described in 
+      the information sheet, with separate storage of my name and other directly identifying data (pseudonymization).</li>
+      <li><b>I consent to the scientific analysis and use of my coded health data by researchers associated with</b> 
+      universities, research institutes or commercial companies on the premises of the Smart4Health research platform.</li>
+      <li>I understand that I will receive no compensation for providing data for research and that I have no rights in 
+      the result of the research.</li>
+      <li>I agree to the <a target="blank" href="https://myscience-app.smart4health.eu/terms-of-use-en.html">Terms of Use</a> 
+      and <a target="blank" href="https://myscience-app.smart4health.eu/privacy-statement-en.html">Privacy Policy</a>.</li>
+      <ul>
     description: ""
     required: true
     accept: <b>Yes</b>, I consent
@@ -338,12 +337,7 @@ options:
 
   - title: Options to be contacted
     summary: |
-      I agree that I may be contacted by Smart4Health in order to receive:
-      <ol>
-        <li>general updates to the research platform.</li>
-        <li>general information based on the data I provided for research.</li>
-        <li>invitations for participation in external research studies.</li>
-      </ol>
+      I agree that I may be contacted by Smart4Health in order to receive general information based on the data I provided for research.
     description: ""
     required: false
     accept: <b>Yes</b>, I consent

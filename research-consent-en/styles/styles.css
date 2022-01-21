@@ -79,6 +79,10 @@ input:focus + .slider {
 .option-text-accept {
 }
 
+li:not(:last-child) {
+   margin-bottom: 5px;
+}
+
 /**
 * Start: Adjustments for using rich text within the yaml
 */
