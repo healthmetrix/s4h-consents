@@ -1,0 +1,10 @@
+---
+kind: pipeline
+name: s4h-consents
+type: docker
+
+steps:
+  - name: yaml lint
+    image: cytopia/yamllint:latest
+    commands:
+      - yamllint .  --no-warnings
