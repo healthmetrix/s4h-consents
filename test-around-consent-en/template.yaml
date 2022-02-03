@@ -412,8 +412,8 @@ options:
         If you do not agree to the general consent, you will not be able to participate in the data provision program for research.
         <br>
         Are you sure?
-      confirm: YES, QUIT
-      cancel: NO
+      confirm: "YES, QUIT"
+      cancel: "NO"
 
   - title: Possibility to transmission of my anonymized health data to third parties
     summary: |
