@@ -1,6 +1,6 @@
 ---
 consent:
-  version: 1
+  version: "1"
   author: Smart4Health
   id: s4h-consent-en
   lang: en
@@ -51,7 +51,7 @@ signing:
     page: 1
     x: 74
     y: 90
-    maxWidth: 500F
+    maxWidth: 500
     dateFormat: dd.MM.yyyy
   signature:
     page: 1
