@@ -17,3 +17,11 @@ The only active consent here is `research-consent-en` which will be accessible t
 consentId `smart4health-research-consent-en`.
 
 `test-around-consent-en` is a playground, e.g. for applying some direct html rich-text stuff.
+
+## Schema validation
+
+To locally validate the schemas a [docker image](Dockerfile) is provided
+at [healthmetrixgmbh/s4h-consents-validate](https://hub.docker.com/repository/docker/healthmetrixgmbh/s4h-consents-validate)
+that should be run from the root dir of this repo like:
+
+`docker run --rm -t -v $(pwd):/data healthmetrixgmbh/s4h-consents-validate`

@@ -4,7 +4,10 @@ name: s4h-consents
 type: docker
 
 steps:
-  - name: yaml lint
+  - name: yaml format check
     image: cytopia/yamllint:latest
     commands:
       - yamllint .  --no-warnings
+
+  - name: validate yaml schema
+    image: healthmetrixgmbh/s4h-consents-validate
