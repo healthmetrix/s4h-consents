@@ -1,6 +1,6 @@
 ---
 consent:
-  version: 1
+  version: "1"
   author: Smart4Health
   learnMoreDisplayType: MODAL
 defaults:
@@ -309,8 +309,8 @@ options:
         If you do not agree to the general consent, you will not be able to participate in the data provision program for research.
         <br><br>
         Are you sure?
-      confirm: YES, QUIT
-      cancel: NO
+      confirm: "YES, QUIT"
+      cancel: "NO"
 
   - title: Option to automatically provide future data
     summary: |
