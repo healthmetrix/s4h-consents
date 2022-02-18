@@ -43,7 +43,7 @@ information:
   - title: What happens when you provide your health data?
     image: /svgs/process.svg
     summary: |
-      After confirming the provision of the core set of data and potentially selecting optional health data, 
+      After confirming the provision of the core set of data and potentially selecting optional health data,
       we <popup data-id="personal">remove or generalize personal information</popup> in your data.
       We add a <popup data-id="code">code</popup> to your data. The data is now <popup data-id="pseudonym">“pseudonymised data”</popup>.
       This code is stored only in your MyScience App.
