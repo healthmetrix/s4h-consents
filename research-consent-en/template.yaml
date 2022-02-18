@@ -34,7 +34,7 @@ information:
   - title: What kind of data do we ask you to provide?
     image: /svgs/data-storage.svg
     summary: |
-      When you provide your health data, we ask you for the <popup data-id="core">core set of data</popup> as far as 
+      When you provide your health data, we ask you for the <popup data-id="core">core set of data</popup> as far as
       available in your Smart4Health account. You can also provide additional
       <popup data-id="optional">optional health data</popup>, depending on your personal preferences, which you can
       define in the MyScience App.
@@ -347,7 +347,9 @@ glossary:
         understanding of disease mechanisms.
     - id: we
       text: |
-        We, the <popup data-id="contact">Hasso-Plattner-Institut für Digital Engineering gGmbH</popup> as part of the EU-funded <a target="blank" href="https://smart4health.eu/consortium">Smart4Health project</a>, are responsible for the processing of your health data and provide this mobile App.
+        We, the <popup data-id="contact">Hasso-Plattner-Institut für Digital Engineering gGmbH</popup> as part of the EU-funded
+        <a target="blank" href="https://smart4health.eu/consortium">Smart4Health project</a>, are responsible for the processing of your health data and
+        provide this mobile App.
     - id: data
       text: |
         <b>Health data</b> is all information related to your personal health collected in your Smart4Health account.
@@ -385,15 +387,18 @@ glossary:
         </ul>
     - id: personal
       text: |
-        <p>When collecting health data, information such as your name and date of birth is also collected. Such information can 
+        <p>When collecting health data, information such as your name and date of birth is also collected. Such information can
         easily be used to identify you personally. </p>
         <p>All <b>personal information</b> directly identifying you (name, date of birth, address, any other related information)
         will be <b>removed</b> from the selected data or <b>generalized</b> (e.g., *21.02.1982  *1982) and your platform-internal identification number is
-        replaced by a <b>code</b>. 
+        replaced by a <b>code</b>.
     - id: code
-      text: |    
-        After all the information directly identifying you has been removed or generalized and replaced by a code, the data you are ready to provide for research are transferred to the Smart4Health research platform and stored there. 
-        The <b>code</b> is safely stored within the MyScience App on your smartphone, therefore the code linking the data to your person remains with you. With this process in place, the health data provided for health research cannot be traced back to you without exceedingly disproportionate technical effort.
+      text: |
+        After all the information directly identifying you has been removed or generalized and replaced by a code, the data you are ready to provide for
+        research are transferred to the Smart4Health research platform and stored there.
+        The <b>code</b> is safely stored within the MyScience App on your smartphone, therefore the code linking the data to your person remains with you. With
+        this process in place, the health data provided for health research cannot be traced back to you without exceedingly disproportionate technical
+        effort.
     - id: pseudonym
       text: |
         <h4>Protecting personal information</h4>
