@@ -653,6 +653,9 @@
           "items": {
             "$ref": "#/definitions/GlossaryItem"
           }
+        },
+        "config": {
+          "$ref": "#/definitions/Config_2"
         }
       },
       "required": [
@@ -668,12 +671,33 @@
         },
         "text": {
           "type": "string"
+        },
+        "config": {
+          "$ref": "#/definitions/Config_1"
         }
       },
       "required": [
         "id",
         "text"
       ]
+    },
+    "Config_1": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "reviewPageTitle": {
+          "type": "string"
+        }
+      }
+    },
+    "Config_2": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "reviewPageTitle": {
+          "type": "string"
+        }
+      }
     }
   }
 }
