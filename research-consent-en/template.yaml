@@ -339,17 +339,23 @@ options:
     popover: To continue, please choose option YES or NO
 
 glossary:
+  config:
+    reviewPageTitle: Glossary
   items:
     - id: research
       text: |
         <b>Health research</b> means all “health, medical, and biomedical research”, that aims to improve the health
         of citizens in everyday life, the treatment and prevention of disease by health professionals, and the
         understanding of disease mechanisms.
+      config:
+        reviewPageTitle: Research
     - id: we
       text: |
         We, the <popup data-id="contact">Hasso-Plattner-Institut für Digital Engineering gGmbH</popup> as part of the EU-funded
         <a target="blank" href="https://smart4health.eu/consortium">Smart4Health project</a>, are responsible for the processing of your health data and
         provide this mobile App.
+      config:
+        reviewPageTitle: Hasso-Plattner-Institut für Digital Engineering gGmbH
     - id: data
       text: |
         <b>Health data</b> is all information related to your personal health collected in your Smart4Health account.
@@ -362,6 +368,8 @@ glossary:
         </blockquote>
         <b>Self-generated fitness and health data</b> include data from sensors, wearables and/or fitness apps (e.g.,
         the heart rate data tracked by a smartwatch).
+      config:
+        reviewPageTitle: Health data
     - id: core
       text: |
         The <b>core set of data</b> includes the following information:
@@ -373,6 +381,8 @@ glossary:
         hospital or general practitioner, and part of the institution’s ZIP code), as well as</li>
         <li>Demographic information (birthyear, gender, country of residence, part of your ZIP code).</li>
         </ul>
+      config:
+        reviewPageTitle: Core set of data
     - id: optional
       text: |
         <b>Optional Health Data</b> may include information such as:
@@ -385,6 +395,8 @@ glossary:
         <li>Self-generated fitness and health data, and</li>
         <li>Questionnaires related to your personal health.</li>
         </ul>
+      config:
+        reviewPageTitle: Optional Health Data
     - id: personal
       text: |
         <p>When collecting health data, information such as your name and date of birth is also collected. Such information can
@@ -392,6 +404,8 @@ glossary:
         <p>All <b>personal information</b> directly identifying you (name, date of birth, address, any other related information)
         will be <b>removed</b> from the selected data or <b>generalized</b> (e.g., *21.02.1982 → *1982) and your platform-internal identification number is
         replaced by a <b>code</b>.
+      config:
+        reviewPageTitle: Personal information
     - id: code
       text: |
         After all the information directly identifying you has been removed or generalized and replaced by a code, the data you are ready to provide for
@@ -399,6 +413,8 @@ glossary:
         The <b>code</b> is safely stored within the MyScience App on your smartphone, therefore the code linking the data to your person remains with you. With
         this process in place, the health data provided for health research cannot be traced back to you without exceedingly disproportionate technical
         effort.
+      config:
+        reviewPageTitle: Code
     - id: pseudonym
       text: |
         <h4>Protecting personal information</h4>
@@ -409,6 +425,8 @@ glossary:
           This number is replaced by a code. The data is now <i>“<b>pseudonymised data</b>”</i>. This means that the health data you
           provide for research is always only associated with this code, not with your real identification number or your name.
         </p>
+      config:
+        reviewPageTitle: Pseudonymised data
     - id: DAC
       text: |
         The Smart4Health Data Access Committee is a body constituted of named individuals from the Smart4Health consortium.
@@ -416,12 +434,16 @@ glossary:
         The decision is based on your consent, the Smart4Health Data Sharing Policy, and an ethics approval of the
         research project obtained and presented by the researcher. For more information on the Smart4Health Data Access Committee,
         its members and the Data Sharing Policy, please visit <a target="blank" href="https://smart4health.eu/dac">https://smart4health.eu/dac</a>.
+      config:
+        reviewPageTitle: Smart4Health Data Access Committee
     - id: companies
       text: |
         The collaboration of public research institutions and commercial companies is necessary for the development of
         new medical products, systems and procedures. Excluding commercial companies would hinder the improvement of
         disease prevention, treatment and care. Each request is reviewed by the Data Access Committee and access is
         granted only if the research contributes to medical progress and complies with National Research Ethics requirements.
+      config:
+        reviewPageTitle: Public and commercial research
     - id: anonym
       text: |
         During <b>anonymization</b>, the code that has been assigned to your identity will be completely removed.
@@ -429,11 +451,15 @@ glossary:
         <br><br>
         Please note: Anonymized data does not count any longer as personal data, because it is not traceable to you anymore.
         In case you withdraw your consent to data provision, the data transferred to ELIXIR-LU cannot be deleted anymore.
+      config:
+        reviewPageTitle: Anonymization
     - id: ELIXIR
       text: |
         ELIXIR-LU focuses on providing data for biomedical research that bridges between basic scientific research and
         clinical practice. ELIXIR-LU facilitates long-term and responsible access to research data and tools for scientists
         in both academia and industry. This allows the reuse of previously generated data to address new research questions.
+      config:
+        reviewPageTitle: ELIXIR-LU
     - id: contact
       text: |
         <i><b>For any questions, concerns, or enquiries you can contact us directly:</b></i>
@@ -447,3 +473,5 @@ glossary:
         E-Mail: 	<a href="mailto:helpdesk@smart4health.eu">helpdesk@smart4health.eu</a>
         <br>
         Website: 	<a target="blank" href="https://smart4health.eu">https://smart4health.eu</a>
+      config:
+        reviewPageTitle: Contact
