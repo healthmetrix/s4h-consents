@@ -390,7 +390,7 @@ glossary:
         <p>When collecting health data, information such as your name and date of birth is also collected. Such information can
         easily be used to identify you personally. </p>
         <p>All <b>personal information</b> directly identifying you (name, date of birth, address, any other related information)
-        will be <b>removed</b> from the selected data or <b>generalized</b> (e.g., *21.02.1982  *1982) and your platform-internal identification number is
+        will be <b>removed</b> from the selected data or <b>generalized</b> (e.g., *21.02.1982 → *1982) and your platform-internal identification number is
         replaced by a <b>code</b>.
     - id: code
       text: |
