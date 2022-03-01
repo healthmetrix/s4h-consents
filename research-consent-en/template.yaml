@@ -142,7 +142,7 @@ information:
       <br><br>
       In the case of a data breach, we will contact you within 72 hours.
     description: |
-      The code linking your data to your identity is stored separately and securely within your 
+      The code linking your data to your identity is stored separately and securely within your
       MyScience App on your smartphone and therefore remains with you. Any attempt to identify you from
       the provided health data is prohibited by law and impracticable in practice as it would require a disproportionate
       amount of time, expense, and labor.
@@ -221,13 +221,13 @@ information:
       You can continue to provide your health data after the end of the project by signing a re-consent form. If
       you do not re-consent, your health data that has been stored based on this consent will be anonymized, by
       erasing the code that has been assigned to you.
-      As in the case of withdrawing your consent, this anonymized data will not be used for any future research. 
-      It will remain accessible for a duration of 10 years for completed and ongoing research projects to ensure 
+      As in the case of withdrawing your consent, this anonymized data will not be used for any future research.
+      It will remain accessible for a duration of 10 years for completed and ongoing research projects to ensure
       that research results can be reproduced.
       <br><br>
-      The optional provision of health data to ELIXIR-LU is unaffected by the project end. Anonymized health 
-      data that was already provided to ELIXIR-LU remains on their premises. This anonymized data cannot be traced back 
-      to you and therefore cannot be deleted upon your request. 
+      The optional provision of health data to ELIXIR-LU is unaffected by the project end. Anonymized health
+      data that was already provided to ELIXIR-LU remains on their premises. This anonymized data cannot be traced back
+      to you and therefore cannot be deleted upon your request.
       It remains available to be used for research.
     description: ""
 
@@ -320,7 +320,8 @@ options:
 
   - title: Option to transmit my health data to ELIXIR-LU in anonymized form
     summary: |
-      I consent that a <b>copy of my health data is transferred from the Smart4Health research platform to the European Research Infrastructure <popup data-id="ELIXIR">ELIXIR-LU</popup> in <popup data-id="anonym">anonymized</popup> form</b>. Details have been provided before.
+      I consent that a <b>copy of my health data is transferred from the Smart4Health research platform to the European Research Infrastructure
+      <popup data-id="ELIXIR">ELIXIR-LU</popup> in <popup data-id="anonym">anonymized</popup> form</b>. Details have been provided before.
     description: ""
     required: false
     accept: <b>Yes</b>, I consent
