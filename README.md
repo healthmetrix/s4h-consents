@@ -25,3 +25,17 @@ at [healthmetrixgmbh/s4h-consents-validate](https://hub.docker.com/repository/do
 that should be run from the root dir of this repo like:
 
 `docker run --rm -t -v $(pwd):/data healthmetrixgmbh/s4h-consents-validate`
+
+## PDF Coordinates
+
+When a new PDF needs to be added, we need to calculate the coordinates of the various checkboxes and inputs to insert
+text at. To do this, go to the [following url](https://pdfbox.apache.org/download.cgi) and download the first command
+line tool (pdfbox-app-<VERSION>.jar). Then, load a specific PDF with the following command:
+
+```shell script
+java -jar <path/to/pdfbox-app.jar> PDFDebugger <path/to/pdf>
+```
+
+You can then page through the PDF and hover over spots to find out the coordinates. Sometimes the coordinates are not
+100% accurate and you need to play around with them. To try it out locally, the dynamic-consent project's signPdfTask
+can be used.
