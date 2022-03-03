@@ -39,3 +39,5 @@ java -jar <path/to/pdfbox-app.jar> PDFDebugger <path/to/pdf>
 You can then page through the PDF and hover over spots to find out the coordinates. Sometimes the coordinates are not
 100% accurate and you need to play around with them. To try it out locally, the dynamic-consent project's signPdfTask
 can be used.
+
+Notice that pdf page numbers are 0-indexed.
