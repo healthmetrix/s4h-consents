@@ -1,0 +1,19 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "schedule": [
+    "every 2 weeks before 9am on Monday"
+  ],
+  "extends": [
+    ":semanticPrefixFixDepsChoreOthers",
+    ":ignoreModulesAndTests",
+    ":autodetectPinVersions",
+    ":prHourlyLimit2",
+    ":prConcurrentLimit10",
+    "group:all",
+    "workarounds:all"
+  ],
+  "reviewers": [
+    "0teh",
+    "fix92"
+  ]
+}
