@@ -3,7 +3,7 @@ consent:
   version: "1"
   author: Smart4Health
   id: s4h-consent-en
-  lang: en
+  lang: de
 fonts:
   default: Helvetica
 options:
