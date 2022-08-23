@@ -7,16 +7,25 @@
 Deployment of the `main` branch of this repository as static assets takes place via netlify pointing
 to https://consents.smart4health.eu
 
-The `dev` branch will be available at https://dev.consents.smart4health.eu at a later point.
+The `dev` branch could be available at https://dev.consents.smart4health.eu at a later point.
 
 The build pipeline on drone has the only purpose to check (yaml-lint) and schema validate the files.
 
 ## Consents
 
-The only active consent here is `research-consent-en` which will be accessible to dynamic-consent with the
-consentId `smart4health-research-consent-en`.
+The only active consents are `research-consent-en` and `research-consent-de` which will be accessible to dynamic-consent
+with the
+consentId `smart4health-research-consent-en` and `smart4health-research-consent-de`.
 
 `test-around-consent-en` is a playground, e.g. for applying some direct html rich-text stuff.
+
+## Onboarding a new consent (e.g. new language)
+
+One can just clone a directory and rename the consentID. Things to watch out then:
+
+1. The section "consent" in config.yaml is completely irrelevant, e.g. `id: s4h-consent-en`. Only the name of the
+   directory if of importance in terms of being the consentId.
+2. If changing the PDF, you have to check that the PDF coordinates are still matching (see below)! This could require to run dynamic consent locally next to serving this repo locally.
 
 ## Schema validation
 
