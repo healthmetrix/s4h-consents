@@ -17,12 +17,12 @@ welcome:
   image: /svgs/s4h.svg
   description: |
     Mit der MyScience App können Sie freiwillig Ihre Gesundheitsdaten der <popup data-id="research">Gesundheitsforschung</popup>zur Verfügung stellen.<br><br>
-    Forschungserkenntnisse, die aus der Nutzung Ihrer <popup data-id="data">Gesundheitsdaten</popup>gewonnen werden, können einen wesentlichen Beitrag in der
+    Forschungserkenntnisse, die aus der Nutzung Ihrer <popup data-id="data">Gesundheitsdaten</popup> gewonnen werden, können einen wesentlichen Beitrag in der
     Gesundheitsforschung leisten.<br><br>
     Die Bereitstellung von Gesundheitsdaten für die Forschung ist freiwillig. Wenn Sie Ihre Daten der Forschung nicht zur Verfügung stellen wollen oder Ihre
     Zustimmung zu einem späteren Zeitpunkt zurückziehen möchten, hat dies keine Auswirkungen auf Ihre medizinische Versorgung, oder auf die Möglichkeit, Ihr
     Smart4Health-Konto zu nutzen.<br><br>
-    Im Folgenden erklären <popup data-id="we">wir</popup>Ihnen das Vorgehen sowie die Hintergründe zur Bereitstellung Ihrer Daten für die Forschung. Bitte
+    Im Folgenden erklären <popup data-id="we">wir</popup> Ihnen das Vorgehen sowie die Hintergründe zur Bereitstellung Ihrer Daten für die Forschung. Bitte
     lesen Sie die Informationen sowie die <a target="blank" href="https://myscience-app.smart4health.eu/privacy-statement-en.html">Datenschutzrichtlinien</a>
     und <a target="blank" href="https://myscience-app.smart4health.eu/terms-of-use-en.html">Nutzungsbedingungen</a> sorgfältig durch. Nehmen Sie sich die Zeit,
     die Sie benötigen, um eine fundierte Entscheidung zu treffen. Wenn Sie mit der Art der Datennutzung nicht einverstanden sind oder wenn wir Ihre Fragen
@@ -34,7 +34,7 @@ information:
     summary: |
       Wenn Sie uns Ihre Gesundheitsdaten zur Verfügung stellen fragen wir Sie nach den <popup data-id="core">Kerndaten</popup>aus Ihrem Smart4Health-Konto,
       sofern diese vorhanden sind. Darüber hinaus können Sie je nach Ihren persönlichen Präferenzen weitere <popup data-id="optional">optionale
-      Gesundheitsdaten</popup>zur Verfügung stellen. Diese können Sie in der MyScience-App festlegen.<br><br>
+      Gesundheitsdaten</popup> zur Verfügung stellen. Diese können Sie in der MyScience-App festlegen.<br><br>
     description: ""
 
   - title: Was passiert, wenn Sie uns Ihre Gesundheitsdaten zur Verfügung stellen?
@@ -45,7 +45,7 @@ information:
       <popup data-id="code">Code</popup>. Aus Ihren Daten werden somit <popup data-id="pseudonym">"pseudonymisierte Daten"</popup>. Der Code wird nur in Ihrer
       MyScience-App gespeichert. Wir speichern die pseudonymisierten Daten separat in der Forschungsplattform.<br><br>
       Am Ende dieses Prozesses erhalten Sie eine Bestätigung, dass die Bereitstellung Ihrer Daten erfolgreich war.<br><br>
-      Bitte beachten Sie, dass die Nutzung Ihrer Daten für Forschungszwecke nur dann möglich ist, wenn Sie Ihre <b><popup data-id="core">Kerndaten</popup>zur
+      Bitte beachten Sie, dass die Nutzung Ihrer Daten für Forschungszwecke nur dann möglich ist, wenn Sie Ihre <b><popup data-id="core">Kerndaten</popup> zur
       Verfügung gestellt haben.</b><br><br>
     description: ""
 
@@ -54,8 +54,8 @@ information:
     summary: |
       Der Zugang zu den Daten wird kontrolliert, und Forschende können mit den Daten nur auf der Forschungsplattform arbeiten (das Herunterladen der Daten von
       der Smart4Health-Forschungsplattform ist nicht gestattet).<br><br>
-      Forschende von Universitäten, Forschungseinrichtungen und <popup data-id="companies">kommerziellen Unternehmen</popup>können um Datenzugang für ihr
-      Gesundheitsforschungsprojekt ansuchen. Das Smart4Health <popup data-id="DAC">Datenzugangskomitee</popup>prüft jedes Forschungsprojekt. Wenn nicht alle
+      Forschende von Universitäten, Forschungseinrichtungen und <popup data-id="companies">kommerziellen Unternehmen</popup> können um Datenzugang für ihr
+      Gesundheitsforschungsprojekt ansuchen. Das Smart4Health <popup data-id="DAC">Datenzugangskomitee</popup> prüft jedes Forschungsprojekt. Wenn nicht alle
       Kriterien für den Datenzugang erfüllt sind, wird der Zugang nicht gewährt. Die Daten dürfen nicht von anderen Forschenden oder für andere als die im
       Forschungsprojekt festgelegten, Zwecke verwendet werden. Ihre Gesundheitsdaten werden ausschließlich für wissenschaftliche Zwecke verwendet und nicht
       verkauft.<br><br>
@@ -101,7 +101,7 @@ information:
     image: /svgs/exit.svg
     summary: |
       Sofern Sie dieser Möglichkeit zugestimmt haben, wird eine Kopie Ihrer Daten von der Smart4Health-Forschungsplattform an
-      <popup data-id="ELIXIR">ELIXIR-LU</popup>übertragen. Zu diesem Zweck <popup data-id="anonym">anonymisieren</popup>wir Ihre Daten, indem wir Ihren Code
+      <popup data-id="ELIXIR">ELIXIR-LU</popup> übertragen. Zu diesem Zweck <popup data-id="anonym">anonymisieren</popup> wir Ihre Daten, indem wir Ihren Code
       entfernen. ELIXIR-LU hat Zugangskriterien, welche mit unseren vergleichbar sind.<br><br>
       Nach der Genehmigung können die Daten von Forschenden heruntergeladen werden. Die Einrichtung der Forschenden trägt die Verantwortung für die
       Datenverarbeitung und kontrolliert diese.<br><br>
@@ -171,7 +171,7 @@ information:
       Die Bereitstellung von Daten für die Forschung ist freiwillig. Sie können Ihre Einwilligung zur Bereitstellung von Gesundheitsdaten für Forschungszwecke
       jederzeit ohne Folgen widerrufen.  Dies können Sie ganz oder in Teilen durch Änderung einzelner Angaben tun. Der Widerruf gilt auch für alle danach von
       Ihnen in auf der Plattform gespeicherten Daten.<br><br>
-      Nutzen Sie dazu die Widerrufsfunktion in der MyScience App oder <popup data-id="contact">kontaktieren</popup>Sie uns direkt (z.B.,
+      Nutzen Sie dazu die Widerrufsfunktion in der MyScience App oder <popup data-id="contact">kontaktieren</popup> Sie uns direkt (z.B.,
       <a href="mailto:helpdesk@smart4health.eu">helpdesk@smart4health.eu</a>).<br><br>
       Für den Fall, dass Sie sich ganz von der Plattform abmelden, werden Ihre Gesundheitsdaten <popup data-id="anonym">anonymisiert</popup>. Diese
       anonymisierten Daten werden nicht für zukünftige Forschungen innerhalb der Smart4Health-Forschungsplattform verwendet. Sie müssen jedoch für eine Dauer
@@ -240,7 +240,7 @@ information:
       Sie können Ihre Präferenzen jederzeit nachträglich in der App ändern.<br><br>
     description: |
       Wenn Sie zugestimmt haben kontaktiert zu werden, können Forschende dafür einen Antrag an das
-      <popup data-id="DAC">Smart4Health Datenzugangskomitee</popup>stellen. Nach Genehmigung erhalten Sie eine Nachricht über die App. Weder Forschende noch
+      <popup data-id="DAC">Smart4Health Datenzugangskomitee</popup> stellen. Nach Genehmigung erhalten Sie eine Nachricht über die App. Weder Forschende noch
       das Komitee kennen Ihre Identität.<br><br>
       Auch wenn Sie für eine Studie zu einer bestimmten Erkrankung kontaktiert werden, bedeutet dies nicht, dass Sie diese Erkrankung haben, sondern nur, dass
       Ihr Profil in das Studiendesign passt, z.B. als Mitglied der Kontrollgruppe.<br><br>
@@ -290,7 +290,7 @@ options:
   - title: Option zur Übermittlung meiner gesundheitsbezogenen Daten an ELIXIR-LU in anonymisierter Form
     summary: |
       Ich bin damit einverstanden, dass eine Kopie meiner gesundheitsbezogenen Daten von der Smart4Health-Forschungsplattform in
-      <popup data-id="anonym">anonymisierter</popup>Form an die Europäische Forschungsinfrastruktur <popup data-id="ELIXIR">ELIXIR-LU</popup>übermittelt wird.
+      <popup data-id="anonym">anonymisierter</popup> Form an die Europäische Forschungsinfrastruktur <popup data-id="ELIXIR">ELIXIR-LU</popup> übermittelt wird.
       Einzelheiten wurden mir bereits mitgeteilt.
     description: ""
     required: false
@@ -430,7 +430,7 @@ glossary:
         reviewPageTitle: ELIXIR-LU
     - id: contact
       text: |
-        <b><i>Bei Fragen oder Anliegen können Sie sich direkt an uns wenden:<i><b>
+        <b><i>Bei Fragen oder Anliegen können Sie sich direkt an uns wenden:</i></b>
         <br><br>
         Hasso-Plattner-Institut für Digital Engineering gGmbH,
         <br>
