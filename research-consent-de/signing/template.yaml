@@ -35,7 +35,7 @@ signing:
   cancel:
     button: ABBRECHEN
     confirmHeader: Sind Sie sicher, dass Sie den Zustimmungsprozess beenden wollen?
-    confirmContent: | 
+    confirmContent: |
       Wenn Sie den Prozess jetzt beenden, müssen Sie das Zustimmungsverfahren wiederholen, bevor Sie an einer Smart4Health Studie teilnehmen
       können.
     confirmCancel: "Ja"

@@ -82,7 +82,7 @@ information:
       Wir bieten nicht die Möglichkeit, die Art der Forschung oder die Forschungsbereiche zu wählen für die Ihre Daten verwendet werden. Forschung kann sich
       auf allgemeine Bereiche der Krankheitsforschung (z.B. Krebs, Herz-Kreislauf-Erkrankungen, Hirnerkrankungen) beziehen, sowie auf spezifische
       Krankheitsforschung und Veränderungen in der Gensubstanz, die heute teilweise noch unbekannt sind. Das bedeutet, dass Ihre Gesundheitsdaten auch für
-      Forschungsfragen verwendet werden können, die wir heute noch nicht absehen können.   
+      Forschungsfragen verwendet werden können, die wir heute noch nicht absehen können.
     description: ""
 
   - title: Wie können Sie zusätzliche Daten für die Forschung bereitstellen?
@@ -391,7 +391,7 @@ glossary:
           Bevor Ihre Daten der Forschung zur Verfügung stehen, werden alle personenbezogenen Informationen entweder entfernt oder verallgemeinert. Außerdem
           wird die plattforminterne Nummer, welche mit allen von Ihnen erfassten Daten verbunden ist, durch einen Code ersetzt. Die Daten sind nun
           "<b>pseudonymisierte Daten</b>". Das bedeutet, dass die Gesundheitsdaten, die Sie der Forschung zur Verfügung stellen, immer nur mit diesem Code und
-          nicht mit Ihrer echten Identifikationsnummer oder Ihrem Namen verknüpft sind.     
+          nicht mit Ihrer echten Identifikationsnummer oder Ihrem Namen verknüpft sind.
       config:
         reviewPageTitle: Pseudonymisierte Daten
     - id: DAC
