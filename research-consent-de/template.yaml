@@ -280,7 +280,8 @@ options:
       Smart4Health-Forschungsplattform zur Verfügung gestellt werden, wenn diese meinem persönlichen Smart4Health-Konto neu hinzugefügt werden. Mir ist
       bewusst, dass dies für den Kerndatensatz (Demographie, Institution, Medikation, Allergien und Unverträglichkeiten, klinische Zustände) immer gilt.
       Darüber hinaus kann ich in den Benutzereinstellungen festlegen, welche optionalen gesundheitsbezogenen Daten automatisch hochgeladen werden sollen.
-      Einzelheiten dazu wurden mir bereits mitgeteilt.    description: ""
+      Einzelheiten dazu wurden mir bereits mitgeteilt.
+    description: ""
     required: false
     accept: <b>Ja</b>, ich stimme zu
     reject: <b>Nein</b>, ich stimme nicht zu
@@ -290,7 +291,8 @@ options:
     summary: |
       Ich bin damit einverstanden, dass eine Kopie meiner gesundheitsbezogenen Daten von der Smart4Health-Forschungsplattform in
       <popup data-id="anonym">anonymisierter</popup>Form an die Europäische Forschungsinfrastruktur <popup data-id="ELIXIR">ELIXIR-LU</popup>übermittelt wird.
-      Einzelheiten wurden mir bereits mitgeteilt.    description: ""
+      Einzelheiten wurden mir bereits mitgeteilt.
+    description: ""
     required: false
     accept: <b>Ja</b>, ich stimme zu
     reject: <b>Nein</b>, ich stimme nicht zu
