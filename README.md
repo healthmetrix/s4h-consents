@@ -25,7 +25,8 @@ One can just clone a directory and rename the consentID. Things to watch out the
 
 1. The section "consent" in config.yaml is completely irrelevant, e.g. `id: s4h-consent-en`. Only the name of the
    directory if of importance in terms of being the consentId.
-2. If changing the PDF, you have to check that the PDF coordinates are still matching (see below)! This could require to run dynamic consent locally next to serving this repo locally.
+2. If changing the PDF, you have to check that the PDF coordinates are still matching (see below)! This could require to
+   run dynamic consent locally next to serving this repo locally.
 
 ## Schema validation
 
@@ -46,7 +47,10 @@ java -jar <path/to/pdfbox-app.jar> PDFDebugger <path/to/pdf>
 ```
 
 You can then page through the PDF and hover over spots to find out the coordinates. Sometimes the coordinates are not
-100% accurate and you need to play around with them. To try it out locally, the dynamic-consent project's signPdfTask
+100% accurate, and you need to play around with them. To try it out locally, the dynamic-consent project's signPdfTask
 can be used.
 
 Notice that pdf page numbers are 0-indexed.
+
+PDFs should be provided with a ISO compliant export, e.g. PDF/A and at least PDF Version 1.5. Otherwise inserted texts
+could be hidden on some PDF viewers.
